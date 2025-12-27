@@ -1,0 +1,7 @@
+{
+  "name": "Universal Design Concept",
+  "description": "A modern, immersive platform for music production and international distribution. Experience the fire of artistic excellence with UDC.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
